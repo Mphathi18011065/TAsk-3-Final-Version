@@ -1,0 +1,10 @@
+D:\Users\perri\source\repos\Task2_18011065_MphathiMaapola\obj\Debug\Task2_18011065_MphathiMaapola.csprojAssemblyReference.cache
+D:\Users\perri\source\repos\Task2_18011065_MphathiMaapola\obj\Debug\Task2_18011065_MphathiMaapola.Form1.resources
+D:\Users\perri\source\repos\Task2_18011065_MphathiMaapola\obj\Debug\Task2_18011065_MphathiMaapola.Properties.Resources.resources
+D:\Users\perri\source\repos\Task2_18011065_MphathiMaapola\obj\Debug\Task2_18011065_MphathiMaapola.csproj.GenerateResource.cache
+D:\Users\perri\source\repos\Task2_18011065_MphathiMaapola\obj\Debug\Task2_18011065_MphathiMaapola.csproj.CoreCompileInputs.cache
+D:\Users\perri\source\repos\Task2_18011065_MphathiMaapola\bin\Debug\Task2_18011065_MphathiMaapola.exe.config
+D:\Users\perri\source\repos\Task2_18011065_MphathiMaapola\bin\Debug\Task2_18011065_MphathiMaapola.exe
+D:\Users\perri\source\repos\Task2_18011065_MphathiMaapola\bin\Debug\Task2_18011065_MphathiMaapola.pdb
+D:\Users\perri\source\repos\Task2_18011065_MphathiMaapola\obj\Debug\Task2_18011065_MphathiMaapola.exe
+D:\Users\perri\source\repos\Task2_18011065_MphathiMaapola\obj\Debug\Task2_18011065_MphathiMaapola.pdb
